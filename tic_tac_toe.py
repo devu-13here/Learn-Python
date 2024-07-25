@@ -1,3 +1,7 @@
+# Specify the row and column by integer with little space in between.
+
+
+
 import random
 
 
